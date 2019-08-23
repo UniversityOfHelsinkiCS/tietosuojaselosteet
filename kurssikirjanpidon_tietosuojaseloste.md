@@ -14,13 +14,16 @@ PL 68 (Pietari Kalmin katu 5)
 Matti Luukkainen, mluukkai@cs.helsinki.fi
 
 ## Henkilötietojen käsittelyn tarkoitus
-Asiakasrekisteriin tallennettuja henkilötietoja käytetään käyttäjien ja palvelussa olevien opiskelijoiden kurssitöiden ja -suoritusten yksilöintiin.
+Asiakasrekisteriin tallennettuja henkilötietoja käytetään käyttäjien ja palvelussa olevien opiskelijoiden kurssitöiden ja -suoritusten yksilöintiin, sekä fuksilaitteiden jaon yhteydessä henkilöllisyyden tarkistamiseen.
 
 ## Rekisterin tietosisältö
 - Etu- ja sukunimi
 - Opiskelijanumero
 - Henkilökuntanumero
 - Sähköposti
+- Syntymäaika
+- Oletuskieli
+- Yliopiston käyttäjätunnus
 
 ## Säännönmukaiset tietolähteet
 Rekisterinpitäjä tallentaa asiakasrekisteriin ne tiedot, jotka asiakas luovuttaa kirjautuessaan sovellukseen ja käyttäessään sovellusta, sekä opiskelijoiden luovuttamat linkit omiin opintosuorituksiinsa.
